@@ -10,3 +10,8 @@
 
 
 Haz tu fork y trabaja en estos datos.
+
+
+Gracias.
+
+![Image of Yaktocat](https://octodex.github.com/images/yaktocat.png)
