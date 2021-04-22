@@ -7,3 +7,6 @@
 
 
 [Datos covid mexico en Docker ]( https://hub.docker.com/repository/docker/cayetanob/cbvubuntucovid )
+
+
+Haz tu fork y trabaja en estos datos.
