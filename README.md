@@ -15,12 +15,15 @@ Invluye también Descripción de los Datos, y Catálgo.
 ## Pasos para descargar este repositorio y ejecutarlo. 
 
 1.- Clonar el repositorio.
+
     git clone https://github.com/cayetanob/covid-mexico.git
     
 2.- Construir el contenedor, ejecutando Dockerfile
+
     docker build -t ubuntu .
     
 3.- Ejecutar la imagen.   
+
     docker run -it --name datos-covid username/bash-curso
 
 
