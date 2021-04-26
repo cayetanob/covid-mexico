@@ -1,5 +1,7 @@
 # Datos de Covid México
 
+<img src="covid-mexico.jpg">
+
 ## Datos de covid de méxico actualizados.
 
 
