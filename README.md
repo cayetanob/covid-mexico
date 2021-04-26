@@ -12,9 +12,17 @@ La fuente de la información es de los Datos Abiertos Dirección General de Epid
 Los datos estan en formato CSV (comma separated values) y estan compresos en una archivo ZIP.
 Invluye también Descripción de los Datos, y Catálgo.
 
+## Pasos para descargar este repositorio y ejecutarlo. 
 
+1.- Clonar el repositorio.
+    git clone https://github.com/cayetanob/covid-mexico.git
+    
+2.- Construir el contenedor, ejecutando Dockerfile
+    docker build -t ubuntu .
+    
+3.- Ejecutar la imagen.   
+    docker run -it --name datos-covid username/bash-curso
 
-Haz tu fork y trabaja en estos datos.
 
 
 Gracias.
