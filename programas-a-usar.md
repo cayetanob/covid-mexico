@@ -2,6 +2,9 @@
 
 - Docker
 - Ubuntu
+- csvkit
+- curl
+- unzip
 - Datos estadísticos de covid.
 
 
