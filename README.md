@@ -27,6 +27,15 @@ Invluye también Descripción de los Datos, y Catálgo.
     docker run -it --name datos-covid username/bash-curso
 
 
+## Ejemplo de estadísticas que podemos obtener
+
+    csvstat -c 13 CovidHermosillo.csv > FechaMayorHillo.csv
+    
+    Nos proporciona la fecha con más defunciones debido a covid en Hermosillo.
+    * 17 DE ENERO DEL 2021 * 
+    
+
+
 
 Gracias.
 
