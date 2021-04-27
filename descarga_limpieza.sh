@@ -12,7 +12,7 @@ fecha=$(date -u +"%y%m%d")   # genera año mes dia
 csvgrep -c MUNICIPIO_RES -m "030" $fecha"COVID19MEXICO.csv" > CovidHermosillo.csv
 
 #Nos presenta la fecha con el mayor número de casos en Hermosillo. 
-csvstat -c 13 CovidHermosillo.csv > FechaMayorHillo.csv
+csvstat -c 13 CovidHermosillo.csv > FechaMayorHillo.txt
 
 rm datos_abiertos_covid19.zip
 
